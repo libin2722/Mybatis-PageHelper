@@ -26,9 +26,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.pagehelper</groupId>
-    <artifactId>pagehelper</artifactId>
-    <version>5.0.1-beta</version>
+    <groupId>com.lukcy.page</groupId>
+    <artifactId>page</artifactId>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>pagehelper 5</name>
